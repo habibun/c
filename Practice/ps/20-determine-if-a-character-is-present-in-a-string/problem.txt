@@ -1,0 +1,39 @@
+Write a C program to check whether a given character is present
+in the given string.
+
+
+******
+
+Description: Suppose, your input string is Mango and input character is m.
+
+Notice that m is not present in Mango. (M is present but not m). So your output is No.
+
+
+
+
+
+Example: 
+
+Input:
+
+Bangladesh
+
+g
+
+Output:
+
+Yes
+
+
+
+
+
+Input: 
+
+Dhaka
+
+A
+
+Output:
+
+No
